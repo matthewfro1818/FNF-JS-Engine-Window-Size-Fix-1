@@ -11,7 +11,7 @@ permissions:
 
 env:
   PROJECT_NAME: JSEngine
-  REPO_PATH: matthewfro18/FNF-JS-Engine-Window-Size-Fix-3
+  REPO_PATH: matthewfro1818/FNF-JS-Engine-Window-Size-Fix-1
 
 jobs:
   get-commit-hash:
